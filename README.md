@@ -90,10 +90,10 @@ Filter: tcp port 80
 
 Capture Summary
 ┌────────────────────┬───────┐
-│ Total packets       │   22  │
-│ TCP packets          │   22  │
-│ Unique source IPs    │    3  │
-│ Alerts raised         │    3  │
+│ Total packets      │   22  │
+│ TCP packets        │   22  │
+│ Unique source IPs  │    3  │
+│ Alerts raised      │    3  │
 └────────────────────┴───────┘
 ```
 
@@ -109,4 +109,4 @@ This tool is for educational purposes and authorized testing only — run it onl
 
 ## Author
 
-Built by Moonlight as part of the CodeAlpha Cybersecurity Internship.
+Built by Mah Noor as part of the CodeAlpha Cybersecurity Internship.
